@@ -1,3 +1,3 @@
 $(document.ready(){
-  $('#submit').on('click', function() { alert('Hello')});
+  $('#Submit').on('click', function() { alert('Hello')});
 });
