@@ -1,3 +1,6 @@
 $(document).ready(function(){
-  $('#Submit').click(function() { alert('Hello')});
+  var myEl = document.getElementById('Submit');
+
+  myEl.addEventListener('click', function() {
+    alert('Hello world');}, false);
 });
