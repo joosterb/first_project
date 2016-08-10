@@ -1,6 +1,6 @@
 //$(document).ready(function(){
   alert('hello');
-  var myEl = document.getElementById('Submit');
+  var myEl = document.getElementById('btnSubmit');
   alert(myEl.innerHTML)
 
   myEl.addEventListener('click', function() {
