@@ -3,10 +3,10 @@ html {
 }
 
 span {
-  width : 1000;
+  width : 1000px;
 }
 
 input {
   position : relative;
-  left : 1500;
+  left : 1500px;
 }
